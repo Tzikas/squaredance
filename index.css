@@ -1,0 +1,16 @@
+/**STEP 3**/
+
+*{
+    transition: all 1s;
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#square{
+    background-color: red;
+    width: 30px;
+    height: 30px;
+    position:fixed;
+}
